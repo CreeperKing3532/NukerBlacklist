@@ -1,4 +1,5 @@
 {
+  "super_admin_id": 1329864275426021458,
   "user_blacklist": {
     "user1": ["a server", "another server"],
     "user2": ["111111111111111111"]
